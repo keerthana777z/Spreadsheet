@@ -127,7 +127,7 @@ With this dashboard:
 
 ## ✅ How to Run
 
-```bash
+
 # 1. Clone the repository
 git clone https://github.com/keerthana777z/Spreadsheet.git
 cd Spreadsheet  # update this path if needed
